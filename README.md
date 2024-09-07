@@ -1,6 +1,8 @@
+![Neutral Modern Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/f80955d2-e421-430a-b7d7-7c404344a2eb)
 <h1 align="center">Hi 👋, I'm Surajit Rana</h1>
-<h3 align="center">A passionate Frontend/UI developer from India. Having dedicated over 14 years to the realm of Frontend/UI development, I have cultivated expertise in Angular 12/14, JavaScript, TypeScript, MongoDB, Express JS, Node, HTML5, CSS3, Bootstrap, and Docker. My passion for Web Accessibility (WCAG) is evident in my work, and I bring extensive proficiency in Unit Testing with Jasmine (utilizing the Karma Framework) and Visual Testing via Applitools.</h3>
-<img src="https://giphy.com/embed/rJsMvyk7AHHiW9qKLM" width="400" align="right" alt="Coding" />
+<h3 align="left">A passionate Frontend/UI developer from India. Having dedicated over 14 years to the realm of Frontend/UI development, I have cultivated expertise in Angular 12/14, JavaScript, TypeScript, MongoDB, Express JS, Node, HTML5, CSS3, Bootstrap, and Docker. My passion for Web Accessibility (WCAG) is evident in my work, and I bring extensive proficiency in Unit Testing with Jasmine (utilizing the Karma Framework) and Visual Testing via Applitools.</h3>
+<img src="https://github.com/user-attachments/assets/49b691dd-71a7-4a16-8a7f-a4184c7342fc" width="400" alt="Coder" align="right" />
+<!-- ![animated_programmer](https://github.com/user-attachments/assets/49b691dd-71a7-4a16-8a7f-a4184c7342fc) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajit1312&label=Profile%20views&color=0e75b6&style=flat" alt="surajit1312" /> </p>
 
@@ -49,4 +51,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surajit1312&show_icons=true&locale=en" alt="surajit1312" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surajit1312&" alt="surajit1312" /></p>
-
