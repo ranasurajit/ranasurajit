@@ -28,6 +28,36 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sOYXlYUI_wUGKUqxWgQZw62nqiy-D2FF/view?usp=sharing](https://drive.google.com/file/d/1sOYXlYUI_wUGKUqxWgQZw62nqiy-D2FF/view?usp=sharing)
 
+### Leetcode Badges
+
+#### Daily Coding Challenge Badges
+<div>
+  <span>
+    <img src="https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f" width="150" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733" width="150" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8" width="150" />
+  </span>
+</div>
+
+#### Milestone Badges
+<div>
+  <span>
+    <img src="https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34" width="150" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/64483d82-52ed-4545-875a-f1d2321c06d7" width="150" />
+  </span>
+</div>
+<!-- ![2024-06](https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f)
+![2024-07](https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733)
+![2024-08](https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8)
+![2024-50](https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34)
+![2024-100-new](https://github.com/user-attachments/assets/64483d82-52ed-4545-875a-f1d2321c06d7) -->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
