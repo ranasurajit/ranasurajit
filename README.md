@@ -41,6 +41,9 @@
   <span>
     <img src="https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8" width="100" />
   </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/2479d4c9-b48d-4347-a422-510cb16957a7" width="100" />
+  </span>
 </div>
 
 #### Milestone Badges
