@@ -54,6 +54,9 @@
   <span>
     <img src="https://github.com/user-attachments/assets/64483d82-52ed-4545-875a-f1d2321c06d7" width="100" />
   </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/072bc200-681c-498b-b38d-a7a3f70d7d4e" width="100" />
+  </span>
 </div>
 <!-- ![2024-06](https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f)
 ![2024-07](https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733)
