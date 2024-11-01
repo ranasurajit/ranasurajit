@@ -30,7 +30,7 @@
 
 ### Leetcode Badges
 
-#### Daily Coding Challenge Badges
+#### Daily Coding Challenge (DCC) Badges
 <div>
   <span>
     <img src="https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f" width="100" />
@@ -43,6 +43,9 @@
   </span>
   <span>
     <img src="https://github.com/user-attachments/assets/2479d4c9-b48d-4347-a422-510cb16957a7" width="100" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/fda47c8b-b5f5-4792-a986-a5b9e0f6dd18" width="100" />
   </span>
 </div>
 
