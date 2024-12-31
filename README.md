@@ -33,35 +33,38 @@
 #### Daily Coding Challenge (DCC) Badges
 <div>
   <span>
-    <img src="https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f" width="100" />
+    <img src="https://github.com/user-attachments/assets/01e7112f-74df-4011-b378-02682355335c" width="100" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733" width="100" />
-  </span>
-  <span>
-    <img src="https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8" width="100" />
-  </span>
-  <span>
-    <img src="https://github.com/user-attachments/assets/2479d4c9-b48d-4347-a422-510cb16957a7" width="100" />
+    <img src="https://github.com/user-attachments/assets/4eb1b570-1d98-4617-9ceb-d67b557d2c55" width="100" />
   </span>
   <span>
     <img src="https://github.com/user-attachments/assets/fda47c8b-b5f5-4792-a986-a5b9e0f6dd18" width="100" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/4eb1b570-1d98-4617-9ceb-d67b557d2c55" width="100" />
+    <img src="https://github.com/user-attachments/assets/2479d4c9-b48d-4347-a422-510cb16957a7" width="100" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8" width="100" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733" width="100" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f" width="100" />
   </span>
 </div>
 
 #### Milestone Badges
 <div>
   <span>
-    <img src="https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34" width="100" />
+    <img src="https://github.com/user-attachments/assets/072bc200-681c-498b-b38d-a7a3f70d7d4e" width="100" />
   </span>
   <span>
     <img src="https://github.com/user-attachments/assets/64483d82-52ed-4545-875a-f1d2321c06d7" width="100" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/072bc200-681c-498b-b38d-a7a3f70d7d4e" width="100" />
+    <img src="https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34" width="100" />
   </span>
 </div>
 <!-- ![2024-06](https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f)
