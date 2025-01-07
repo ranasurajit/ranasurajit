@@ -1,6 +1,6 @@
 ![Neutral Modern Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/f80955d2-e421-430a-b7d7-7c404344a2eb)
 <h1 align="center">Hi 👋, I'm Surajit Rana</h1>
-<h3 align="left">A passionate Frontend/UI developer from India. Having dedicated over 14 years to the realm of Frontend/UI development, I have cultivated expertise in Angular 12/14, JavaScript, TypeScript, MongoDB, Express JS, Node, HTML5, CSS3, Bootstrap, and Docker. My passion for Web Accessibility (WCAG) is evident in my work, and I bring extensive proficiency in Unit Testing with Jasmine (utilizing the Karma Framework) and Visual Testing via Applitools.</h3>
+<h3 align="left">A passionate Frontend/UI developer from India. Having dedicated over 15 years to the realm of Frontend/UI development, I have cultivated expertise in Angular 12/14, JavaScript, TypeScript, MongoDB, Express JS, Node, HTML5, CSS3, Bootstrap, and Docker. My passion for Web Accessibility (WCAG) is evident in my work, and I bring extensive proficiency in Unit Testing with Jasmine (utilizing the Karma Framework) and Visual Testing via Applitools.</h3>
 <img src="https://github.com/user-attachments/assets/49b691dd-71a7-4a16-8a7f-a4184c7342fc" width="400" alt="Coder" align="right" />
 <!-- ![animated_programmer](https://github.com/user-attachments/assets/49b691dd-71a7-4a16-8a7f-a4184c7342fc) -->
 
