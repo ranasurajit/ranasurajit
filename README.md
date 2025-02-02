@@ -33,6 +33,9 @@
 #### Daily Coding Challenge (DCC) Badges
 <div>
   <span>
+    <img src="https://github.com/user-attachments/assets/c4172d01-5696-411f-885c-563df4b94346" width="100" />
+  </span>
+  <span>
     <img src="https://github.com/user-attachments/assets/01e7112f-74df-4011-b378-02682355335c" width="100" />
   </span>
   <span>
