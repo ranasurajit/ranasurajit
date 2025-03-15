@@ -64,6 +64,12 @@
 #### Milestone Badges
 <div>
   <span>
+    <img src="https://github.com/user-attachments/assets/7812d14a-b758-4204-8a4a-7f4cf658eb27" width="100" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/d91a98e6-ed28-423d-8b43-6e4ddbe7a274" width="100" />
+  </span>
+  <span>
     <img src="https://github.com/user-attachments/assets/072bc200-681c-498b-b38d-a7a3f70d7d4e" width="100" />
   </span>
   <span>
@@ -71,9 +77,6 @@
   </span>
   <span>
     <img src="https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34" width="100" />
-  </span>
-  <span>
-    <img src="https://github.com/user-attachments/assets/7812d14a-b758-4204-8a4a-7f4cf658eb27" width="100" />
   </span>
 </div>
 <!-- ![2024-06](https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f)
