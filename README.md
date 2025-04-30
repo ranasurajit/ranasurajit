@@ -33,6 +33,9 @@
 #### Daily Coding Challenge (DCC) Badges
 <div>
   <span>
+    <img src="https://github.com/user-attachments/assets/0f3c5e05-0f47-4bba-8015-6caaf083f82d" width="100" />
+  </span>
+  <span>
     <img src="https://github.com/user-attachments/assets/69c22f54-add1-41b2-940a-82f473d6a64a" width="100" />
   </span>
   <span>
@@ -66,6 +69,9 @@
 
 #### Milestone Badges
 <div>
+  <span>
+    <img src="https://github.com/user-attachments/assets/ba718e6e-76c4-4666-ba06-03a2588d36a3" width="100" />
+  </span>
   <span>
     <img src="https://github.com/user-attachments/assets/7812d14a-b758-4204-8a4a-7f4cf658eb27" width="100" />
   </span>
