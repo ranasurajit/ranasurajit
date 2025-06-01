@@ -33,66 +33,64 @@
 #### Daily Coding Challenge (DCC) Badges
 <div>
   <span>
-    <img src="https://github.com/user-attachments/assets/0f3c5e05-0f47-4bba-8015-6caaf083f82d" width="100" />
+    <img src="https://github.com/user-attachments/assets/f48edde4-0f25-4a33-a7b0-a88f4dd02333" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/69c22f54-add1-41b2-940a-82f473d6a64a" width="100" />
+    <img src="https://github.com/user-attachments/assets/0f3c5e05-0f47-4bba-8015-6caaf083f82d" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/31de540d-f349-4071-89f0-33d89d76b583" width="100" />
+    <img src="https://github.com/user-attachments/assets/69c22f54-add1-41b2-940a-82f473d6a64a" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/c4172d01-5696-411f-885c-563df4b94346" width="100" />
+    <img src="https://github.com/user-attachments/assets/31de540d-f349-4071-89f0-33d89d76b583" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/01e7112f-74df-4011-b378-02682355335c" width="100" />
+    <img src="https://github.com/user-attachments/assets/c4172d01-5696-411f-885c-563df4b94346" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/4eb1b570-1d98-4617-9ceb-d67b557d2c55" width="100" />
+    <img src="https://github.com/user-attachments/assets/01e7112f-74df-4011-b378-02682355335c" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/fda47c8b-b5f5-4792-a986-a5b9e0f6dd18" width="100" />
+    <img src="https://github.com/user-attachments/assets/4eb1b570-1d98-4617-9ceb-d67b557d2c55" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/2479d4c9-b48d-4347-a422-510cb16957a7" width="100" />
+    <img src="https://github.com/user-attachments/assets/fda47c8b-b5f5-4792-a986-a5b9e0f6dd18" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8" width="100" />
+    <img src="https://github.com/user-attachments/assets/2479d4c9-b48d-4347-a422-510cb16957a7" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733" width="100" />
+    <img src="https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f" width="100" />
+    <img src="https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733" width="120" />
+  </span>
+  <span>
+    <img src="https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f" width="120" />
   </span>
 </div>
 
 #### Milestone Badges
 <div>
   <span>
-    <img src="https://github.com/user-attachments/assets/ba718e6e-76c4-4666-ba06-03a2588d36a3" width="100" />
+    <img src="https://github.com/user-attachments/assets/ba718e6e-76c4-4666-ba06-03a2588d36a3" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/7812d14a-b758-4204-8a4a-7f4cf658eb27" width="100" />
+    <img src="https://github.com/user-attachments/assets/7812d14a-b758-4204-8a4a-7f4cf658eb27" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/d91a98e6-ed28-423d-8b43-6e4ddbe7a274" width="100" />
+    <img src="https://github.com/user-attachments/assets/d91a98e6-ed28-423d-8b43-6e4ddbe7a274" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/072bc200-681c-498b-b38d-a7a3f70d7d4e" width="100" />
+    <img src="https://github.com/user-attachments/assets/072bc200-681c-498b-b38d-a7a3f70d7d4e" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/64483d82-52ed-4545-875a-f1d2321c06d7" width="100" />
+    <img src="https://github.com/user-attachments/assets/64483d82-52ed-4545-875a-f1d2321c06d7" width="120" />
   </span>
   <span>
-    <img src="https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34" width="100" />
+    <img src="https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34" width="120" />
   </span>
 </div>
-<!-- ![2024-06](https://github.com/user-attachments/assets/47bf67d6-11b8-447a-94d5-35e4b9f2ef6f)
-![2024-07](https://github.com/user-attachments/assets/60b0c630-7b59-4286-84e2-2ca371284733)
-![2024-08](https://github.com/user-attachments/assets/1c8384b0-84cc-4bb3-b746-2e58cbc7e9c8)
-![2024-50](https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34)
-![2024-100-new](https://github.com/user-attachments/assets/64483d82-52ed-4545-875a-f1d2321c06d7) -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
