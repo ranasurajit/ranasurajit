@@ -109,6 +109,12 @@
     <img src="https://github.com/user-attachments/assets/3d929010-c81c-4c14-87d6-51c75756eb34" width="120" />
   </span>
 </div>
+#### Annual Badges
+<div>
+  <span>
+    <img src="https://github.com/user-attachments/assets/f07d3df3-678b-4bd9-b5dd-772df4370eaa" width="120" />
+  </span>
+</div>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
