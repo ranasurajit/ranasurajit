@@ -30,7 +30,15 @@
 
 ### Leetcode Badges
 
-#### Daily Coding Challenge (DCC) Badges
+#### 🟢 Daily Coding Challenge (DCC) Badges
+##### ✅ Year 2026
+  <div>
+    <span>
+      <img src="https://github.com/user-attachments/assets/1694c3f7-751d-4130-a990-f784fa5ef3eb" width="120" />
+    </span>
+  </div>
+  
+##### ✅ Year 2025
 <div>
   <span>
     <img src="https://github.com/user-attachments/assets/d1920bea-cc21-4f1e-86e0-9292116c87a6" width="120" />
@@ -68,6 +76,10 @@
   <span>
     <img src="https://github.com/user-attachments/assets/c4172d01-5696-411f-885c-563df4b94346" width="120" />
   </span>
+</div>
+
+##### ✅ Year 2024
+<div>
   <span>
     <img src="https://github.com/user-attachments/assets/01e7112f-74df-4011-b378-02682355335c" width="120" />
   </span>
@@ -91,7 +103,7 @@
   </span>
 </div>
 
-#### Milestone Badges
+#### 🟡 Milestone Badges
 <div>
   <span>
     <img src="https://github.com/user-attachments/assets/9477554b-f7bb-4cc0-b902-31cbc6232995" width="120" />
@@ -119,7 +131,7 @@
   </span>
 </div>
 
-#### Annual Badges
+#### 🔴 Annual Badges
 <div>
   <span>
     <img src="https://github.com/user-attachments/assets/f07d3df3-678b-4bd9-b5dd-772df4370eaa" width="120" />
@@ -128,6 +140,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- https://medium.com/@surajit1602/upgrade-your-terminal-aesthetic-installing-ohmyzsh-themes-for-pro-level-productivity-e4349c0fd9fe
+- https://medium.com/@surajit1602/node-nirvana-how-to-work-with-multiple-versions-of-node-js-for-seamless-development-75272781b0f6
+- https://medium.com/@surajit1602/java-juggling-switching-jdk-versions-seamlessly-3f3ba0910d89
+- https://medium.com/@surajit1602/%EF%B8%8F-understanding-uml-class-diagrams-through-a-real-world-example-af011f03867b
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
