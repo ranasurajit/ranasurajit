@@ -39,6 +39,9 @@
     <span>
       <img src="https://github.com/user-attachments/assets/1694c3f7-751d-4130-a990-f784fa5ef3eb" width="120" />
     </span>
+    <span>
+      <img src="https://github.com/user-attachments/assets/86dca8a9-0201-4603-a33a-065cb838d19d" width="120" />
+    </span>
   </div>
   
 ##### ✅ Year 2025
