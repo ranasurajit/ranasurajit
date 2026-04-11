@@ -112,6 +112,9 @@
 #### 🟡 Milestone Badges
 <div>
   <span>
+    <img src="https://github.com/user-attachments/assets/5ccc3286-374a-43ab-89d7-a7cc467c20c2" width="120" />
+  </span>
+  <span>
     <img src="https://github.com/user-attachments/assets/c0058500-469a-4f3b-bdd6-2d3ecaf2097b" width="120" />
   </span>
   <span>
