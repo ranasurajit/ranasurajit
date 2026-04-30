@@ -34,6 +34,9 @@
 ##### ✅ Year 2026
   <div>
     <span>
+      <img src="https://github.com/user-attachments/assets/8fead920-35e8-4bb9-8139-c8a3307e8730" width="120" />
+    </span>
+    <span>
       <img src="https://github.com/user-attachments/assets/86dca8a9-0201-4603-a33a-065cb838d19d" width="120" />
     </span>
     <span>
